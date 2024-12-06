@@ -1,0 +1,5 @@
+myvenv
+*.prototxt
+*.caffemodel
+*.t7
+face_data
