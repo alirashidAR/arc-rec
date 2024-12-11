@@ -3,3 +3,5 @@ myvenv
 *.caffemodel
 *.t7
 face_data
+*.png
+registered_users
